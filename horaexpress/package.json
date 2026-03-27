@@ -1,0 +1,16 @@
+{
+  "name": "horaexpress",
+  "version": "1.0.0",
+  "description": "Servidor con Node.js y Express para mostrar hora y fecha",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
