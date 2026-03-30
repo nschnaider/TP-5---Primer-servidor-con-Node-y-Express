@@ -1,3 +1,8 @@
+Ejecutar:
+npm install express
+node index.js
+
+
 La función de este proyecto es devolver la hora actual y la fecha completa en distintos formatos a través de rutas. 
 
 Para poder ejecutar el proyecto se necesita tener instalado Node.js y npm. Se puede verificar ejecutando en la terminal los comandos node -v y npm -v.

@@ -1,4 +1,4 @@
-import app from "./app.js"; // importo aapp.js
+import app from "./app.js"; // importo app.js
 
 const PUERTO = 3000; // defino el puerto
 
